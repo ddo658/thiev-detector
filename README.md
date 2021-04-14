@@ -12,6 +12,7 @@ In this project i used a motion gesture to trigure an alarm so that we can know 
 
 
 REQUIREMENTS:
+
 you will need following materials to make one:
 1. Arduino uno 
 2. jump wires
