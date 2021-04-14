@@ -25,7 +25,7 @@ you will need following materials to make one:
 
 INSTALLATION:
 
-*First if we look at the pir motion sensor there are 3 pins on it 
+* First if we look at the pir motion sensor there are 3 pins on it 
 1.OUTPUT
 2.GND
 3.VCC
@@ -40,10 +40,10 @@ we are going to connect the Ground pin to the ground
 VCC:
 this is the positive power pin and it is connected to the 5V supply
 
-*Second,SPEAKER
+* Second,SPEAKER
 we are going to connect the longer leg of the speaker to the pin 12 on the arduino and the other to the ground
 
-*Third,LED
+* Third,LED
 so the positve end goes to the pin 10 and the other end connected to the ground through 2.2 ohm resistor.
 and with all this our installation is done.
 
