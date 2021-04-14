@@ -16,7 +16,7 @@ REQUIREMENTS:
 you will need following materials to make one:
 1. Arduino uno 
 2. jump wires
-3.PIR motion senor
+3. PIR motion senor
 4. LED
 5. SPEAKER
 6. 2.2 K resistor
